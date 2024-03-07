@@ -2,13 +2,13 @@
 
 #### Technical Skills: AWS, Azure, Python, SQL, Java, C, R
 
-### Education
+## Education
 Psychological Sciences, B.A. | California State University San Marcos
 
-### Certifications
+## Certifications
 Azure Data Scientist Associate | Microsoft Certification, November 2023
 
-### Work Experience
+## Work Experience
 #### Case Resource Manager @ Department of Developmental Disabilities, State of Washington DSHS
 - Utilize a client-focused approach to assess and match clients to services with a 100% accuracy rate, ensuring 70+ clients have access to appropriate services as per regulations and policy guidelines.
 
@@ -21,7 +21,7 @@ Azure Data Scientist Associate | Microsoft Certification, November 2023
 #### Undergraduate Teaching Assistant @ California State University San Marcos
 - Provided tutoring sessions in statistical modeling with SPSS and R, resulting in 20% improvement in students’ proficiency and application of regression, ANOVA and general linear modeling techniques.
 
-### Projects
+## Projects
 #### Leverage Machine Learning to Create Recommendation Systems
 
 #### Predictive Modeling with SciKit-Learn and TensorFlow
