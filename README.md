@@ -35,4 +35,4 @@ Implemented feature engineering strategies such as interaction terms and polynom
 
 #### Decoding Data: A Step-by-Step Guide to Exploratory Data Analysis
 Authored an EDA guide for dataset of 52,000 movies using Python, Numpy, Pandas, and Sci-Kit Learn that aims to increase users’ data literacy by 25% and improve their efficiency in exploring and interpreting data patterns through descriptive and inferential statistics, correlation matrix and visualizations.
-
+[View Here](https://github.com/viridiana-sanchez/Movie-Machine-Learning-Portfolio/blob/main/Decoding-Data-Guide.ipynb)
