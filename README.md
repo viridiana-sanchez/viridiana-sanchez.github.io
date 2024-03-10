@@ -18,7 +18,7 @@ Azure Data Scientist Associate | Microsoft Certification, November 2023
 - Streamlined data processing and information representation by transformation, label encoding and scaling with Excel, R and Qualtrics databases, yielding a 30% reduction in overall time and resource utilization.
 - Enhanced data interpretation by 75% through implementation of map region visualization of DNA results, contributing to heightened participant satisfaction.
 
-![](/assets/img/lab1.jpg)
+![](https://github.com/viridiana-sanchez/viridiana-sanchez.github.io/blob/main/assets/lab1.jpg)
 
 #### Undergraduate Teaching Assistant @ California State University San Marcos
 - Provided tutoring sessions in statistical modeling with SPSS and R, resulting in 20% improvement in students’ proficiency and application of regression, ANOVA and general linear modeling techniques.
