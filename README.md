@@ -30,9 +30,7 @@ Built a neural collaborative filtering model with a 0.8 RMSE, highlighting the s
 ![rec1](https://github.com/viridiana-sanchez/viridiana-sanchez.github.io/assets/122954920/4b93592f-2a61-466a-a705-4316b6f56144)
 
 #### Predictive Modeling with SciKit-Learn and TensorFlow
-[View](https://github.com/viridiana-sanchez/Movie-Machine-Learning-Portfolio/blob/main/Predictive-Modeling-ScikitLearn-and-Tensorflow.ipynb)
-
-Implemented feature engineering strategies such as interaction terms and polynomial features to achieve a 20% reduction in Mean Squared Error across regression models to enhance precision. Leveraged the power of ensemble learning with random forest regression, achieving a 15% increase in R-squared values and significantly improving model explainability and predictive accuracy.
+Implemented feature engineering strategies such as interaction terms and polynomial features to achieve a 20% reduction in Mean Squared Error across regression models to enhance precision. Leveraged the power of ensemble learning with random forest regression, achieving a 15% increase in R-squared values and significantly improving model explainability and predictive accuracy. [View](https://github.com/viridiana-sanchez/Movie-Machine-Learning-Portfolio/blob/main/Predictive-Modeling-ScikitLearn-and-Tensorflow.ipynb)
 
 ![ml](https://github.com/viridiana-sanchez/viridiana-sanchez.github.io/assets/122954920/ddf5a28a-9227-4af1-a83e-2b20a15824d6)
 
