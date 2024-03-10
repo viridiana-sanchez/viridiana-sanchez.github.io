@@ -24,9 +24,9 @@ Azure Data Scientist Associate | Microsoft Certification, November 2023
 - Provided tutoring sessions in statistical modeling with SPSS and R, resulting in 20% improvement in students’ proficiency and application of regression, ANOVA and general linear modeling techniques.
 
 ## Projects
-#### Leverage Machine Learning to Create Recommendation Systems [View](https://github.com/viridiana-sanchez/Movie-Machine-Learning-Portfolio)
-Developed a content-based movie recommender using natural language processing that achieved a cosine similarity above 0.8, ensuring users receive highly relevant and personalized movie suggestions.
-Built a neural collaborative filtering model with a 0.8 RMSE, highlighting the system’s predictive performance in accurately recommending movies on predicted ratings derived from users’ historical rating behavior.
+#### Leverage Machine Learning to Create Recommendation Systems
+Developed a content-based movie recommender using natural language processing that achieved a cosine similarity above 0.8, ensuring users receive highly relevant and personalized movie suggestions. Built a neural collaborative filtering model with a 0.8 RMSE, highlighting the system’s predictive performance in accurately recommending movies on predicted ratings derived from users’ historical rating behavior. [View](https://github.com/viridiana-sanchez/Movie-Machine-Learning-Portfolio)
+
 ![rec1](https://github.com/viridiana-sanchez/viridiana-sanchez.github.io/assets/122954920/4b93592f-2a61-466a-a705-4316b6f56144)
 
 #### Predictive Modeling with SciKit-Learn and TensorFlow
@@ -36,4 +36,4 @@ Implemented feature engineering strategies such as interaction terms and polynom
 
 #### Decoding Data: A Step-by-Step Guide to Exploratory Data Analysis
 Authored an EDA guide for dataset of 52,000 movies using Python, Numpy, Pandas, and Sci-Kit Learn that aims to increase users’ data literacy by 25% and improve their efficiency in exploring and interpreting data patterns through descriptive and inferential statistics, correlation matrix and visualizations.
-[View Here](https://github.com/viridiana-sanchez/Movie-Machine-Learning-Portfolio/blob/main/Decoding-Data-Guide.ipynb)
+[View](https://github.com/viridiana-sanchez/Movie-Machine-Learning-Portfolio/blob/main/Decoding-Data-Guide.ipynb)
