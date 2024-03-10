@@ -24,7 +24,7 @@ Azure Data Scientist Associate | Microsoft Certification, November 2023
 - Provided tutoring sessions in statistical modeling with SPSS and R, resulting in 20% improvement in students’ proficiency and application of regression, ANOVA and general linear modeling techniques.
 
 ## Projects
-#### Leverage Machine Learning to Create Recommendation Systems
+#### Leverage Machine Learning to Create Recommendation Systems [View](https://github.com/viridiana-sanchez/Movie-Machine-Learning-Portfolio)
 Developed a content-based movie recommender using natural language processing that achieved a cosine similarity above 0.8, ensuring users receive highly relevant and personalized movie suggestions.
 Built a neural collaborative filtering model with a 0.8 RMSE, highlighting the system’s predictive performance in accurately recommending movies on predicted ratings derived from users’ historical rating behavior.
 
