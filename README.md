@@ -30,6 +30,7 @@ Built a neural collaborative filtering model with a 0.8 RMSE, highlighting the s
 
 #### Predictive Modeling with SciKit-Learn and TensorFlow
 [View](https://github.com/viridiana-sanchez/Movie-Machine-Learning-Portfolio/blob/main/Predictive-Modeling-ScikitLearn-and-Tensorflow.ipynb)
+
 Implemented feature engineering strategies such as interaction terms and polynomial features to achieve a 20% reduction in Mean Squared Error across regression models to enhance precision. Leveraged the power of ensemble learning with random forest regression, achieving a 15% increase in R-squared values and significantly improving model explainability and predictive accuracy
 
 #### Decoding Data: A Step-by-Step Guide to Exploratory Data Analysis
