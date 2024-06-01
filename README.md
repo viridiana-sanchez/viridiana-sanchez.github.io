@@ -13,9 +13,6 @@ Azure Data Scientist Associate | Microsoft Certification, November 2023
 - Conducted comprehensive assessments and evaluations of approximately 70 clients, analyzing data on their physical, mental and behavioral health to create detailed reports to inform service matching and led to a 20% increase in client satisfaction.
 - Managed multiple client service projects, ensuring compliance with state regulations and policies, leading and enhancing service delivery.
 
-#### Adult Protective Services Investigator @ Aging and Long-Term Support Adminstration, Washington State DSHS
-- Conducted investigations into abuse, neglect, and exploitation allegations, analyzing and evaluating evidence to prepare reports for senior management and legal proceedings, contributing to an increase in case resolution efficiency.
-
 #### Independent Contractor- Research Data Analyst @ California State University San Marcos
 - Conducted data analysis for two research studies, utilizing SPSS and R for linear modeling, regression analysis, ANOVA, and correlations, improving research outcome accuracy and interpretability by 20%
 - Prepared comprehensive reports summarizing research methodologies, outcomes, and statistical analyses, enhancing stakeholders' understanding and usability of findings by 20%.
