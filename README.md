@@ -13,6 +13,9 @@ Azure Data Scientist Associate | Microsoft Certification, November 2023
 - Conducted comprehensive assessments and evaluations of approximately 70 clients, analyzing data on their physical, mental and behavioral health to create detailed reports to inform service matching and led to a 20% increase in client satisfaction.
 - Managed multiple client service projects, ensuring compliance with state regulations and policies, leading and enhancing service delivery.
 
+#### Adult Protective Services Investigator @ Aging and Long-Term Support Adminstration, State of Washington DSHS
+- Conducted investigations into abuse, neglect, and exploitation allegations, analyzing and evaluating evidence to prepare reports for senior management and legal proceedings, contributing to an increase in case resolution efficiency.
+
 #### Independent Contractor- Research Data Analyst @California State University San Marcos
 - Conducted data analysis for two research studies, utilizing SPSS and R for linear modeling, regression analysis, ANOVA, and correlations, improving research outcome accuracy and interpretability by 20%
 - Prepared comprehensive reports summarizing research methodologies, outcomes, and statistical analyses, enhancing stakeholders' understanding and usability of findings by 20%.
@@ -30,7 +33,7 @@ Azure Data Scientist Associate | Microsoft Certification, November 2023
 - Provided tutoring sessions in statistical modeling with SPSS and R, resulting in 20% improvement in students’ proficiency and application of regression, ANOVA and general linear modeling techniques.
 
 ## Publications
-#### Sasha Y. Kimel, Jonas R. Kunst, Fatih Uenal, James Sidanius, Viridiana Sanchez Alcaraz. “They are what they eat”: Negative affect evoked by other’s food practices increase blatant outgroup dehumanization (Under Review). May 2019 - September 2020
+#### Sasha Y. Kimel, Jonas R. Kunst, Fatih Uenal, James Sidanius, Viridiana Sanchez Alcaraz. “They are what they eat”: Negative affect evoked by other’s food practices increase blatant outgroup dehumanization (Under Review). 
 - Conducted thorough reviews of statistical analyses (ANOVA, PROCESS, and regression analysis), ensuring the use of appropriate methods and accuracy in interpreting data.
 - Interpreted and edited statistical results, tables, and visualizations to make research findings clearer, honing skills in literature review, writing, and manuscript preparation.
 
