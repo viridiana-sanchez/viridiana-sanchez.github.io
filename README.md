@@ -10,28 +10,29 @@ Azure Data Scientist Associate | Microsoft Certification, November 2023
 
 ## Work Experience
 #### Case Resource Manager @ Department of Developmental Disabilities, Washington State DSHS
-- Conducted comprehensive assessments and evaluations of approximately 70 clients, analyzing data on their physical, mental and behavioral health to create detailed reports to inform service matching and led to a 20% increase in client satisfaction.
-- Managed multiple client service projects, ensuring compliance with state regulations and policies, leading and enhancing service delivery.
+- Conducted data-driven assessments for 70+ clients, utilizing statistical methods to evaluate client needs.
+- Achieved 20% increase in client satisfaction through targeted service customization using data insights.
+
 
 #### Independent Contractor- Research Data Analyst @ California State University San Marcos
-- Conducted data analysis for two research studies, utilizing SPSS and R for linear modeling, regression analysis, ANOVA, and correlations, improving research outcome accuracy and interpretability by 20%
-- Prepared comprehensive reports summarizing research methodologies, outcomes, and statistical analyses, enhancing stakeholders' understanding and usability of findings by 20%.
-- Managed and cleaned data, including handling raw data reports for approximately 100 DNA samples from Ancestry DNA, ensuring accurate data encoding, protection in transit and at rest, leading to a reduction in processing errors.
+- Improved research accuracy and interpretability by 20% using SPSS, R and Excel for data analysis.
+- Reduced data processing errors through effective data management for 100 DNA samples.
+- Organized and presented weekly reports on methodology and outcomes to improve stakeholder understanding.
+
 
 #### Research Lab Manager @ California State University San Marcos
 [Culture + Intergroup Relations Lab](https://www.kimellab.com/)
-- Managed daily operations of a 14-member team, achieving a 100% success rate of four longitudinal research studies, leading to a 25% increase in lab efficiency.
-- Assisted in the design and management of experimental protocols, performing data analysis with R and SPSS, resulting in an increase in research accuracy and efficiency.
-- Transitioned in-person longitudinal studies to online formats during COVID-19 pandemic, maintaining a 95% participant retention rate.
-  
+- Led a 14-member team, achieving a 100% timeliness success rate across 4 studies to improve lab efficiency.
+- Streamlined project management and data analysis achieving a 25% increase in research accuracy and output.
+- Designed and implemented training programs for new assistants, resulting in a 20% research output quality and team performance.
+- Maintained a 95% participant retention rate by transitioning in-person studies to online formats during COVID-19.
+
 ![lab1](https://github.com/viridiana-sanchez/viridiana-sanchez.github.io/assets/122954920/e6c41150-ba62-4fd1-80dc-ed0c92b46c5d)
 
-#### Undergraduate Teaching Assistant @ California State University San Marcos
-- Provided tutoring sessions in statistical modeling with SPSS and R, resulting in 20% improvement in students’ proficiency and application of regression, ANOVA and general linear modeling techniques.
 
 ## Publications
 #### Sasha Y. Kimel, Jonas R. Kunst, Fatih Uenal, James Sidanius, Viridiana Sanchez Alcaraz. “They are what they eat”: Negative affect evoked by other’s food practices increase blatant outgroup dehumanization (Under Review). 
-- Conducted thorough reviews of statistical analyses (ANOVA, PROCESS, and regression analysis), ensuring the use of appropriate methods and accuracy in interpreting data.
+- Ensured 100% methodological accuracy and clarity of analyses and visualizations (PROCESS and regression).
 - Interpreted and edited statistical results, tables, and visualizations to make research findings clearer, honing skills in literature review, writing, and manuscript preparation.
 
 ## Projects
