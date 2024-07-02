@@ -1,4 +1,4 @@
-# Data Scientist
+
 
 #### Technical Skills: AWS, Azure, Python, SQL, Java, C, R
 
