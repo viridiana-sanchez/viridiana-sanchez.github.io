@@ -1,4 +1,4 @@
-
+# Data Implementation Specialist
 
 #### Technical Skills: AWS, Azure, Python, SQL, Java, C, R
 
@@ -9,6 +9,9 @@ Psychological Sciences, B.A. | California State University San Marcos
 Azure Data Scientist Associate | Microsoft Certification, November 2023
 
 ## Work Experience
+#### Data Implementation Specialist - Program Specialist 3 @ Washington State Department of Children, Youth and Families 
+
+
 #### Case Resource Manager @ Department of Developmental Disabilities, Washington State DSHS
 - Streamlined the development of Individual Service Plans (ISP) for a caseload of 70+ clients, reducing development time by 37.5% (from 8 hours to 5 hours) through effective use of data analytics and software tools.
 - Achieved 20% increase in client satisfaction through targeted service customization using data insights.
