@@ -1,15 +1,19 @@
 
 
-#### Technical Skills: AWS, Azure, Python, SQL, Java, C, R
+#### Technical Skills: Python, SQL, R, Excel, Azure, PowerBI
 
 ## Education
-Psychological Sciences, B.A. | California State University San Marcos
+Psychological Science, B.A. | California State University San Marcos
 
 ## Certifications
 Azure Data Scientist Associate | Microsoft Certification, November 2023
 
 ## Work Experience
 
+### Program Data Specialist @ Division of Partnership, Prevention, and Services, Washington State DCYF
+- Designed and implemented data systems to support the statewide launch of new foster program, enabling precise tracking and reporting of child welfare outcomes across 8,750 licensed homes and over 4,000 foster youth.
+- Streamlined data workflows, leveraging PowerBI, and Excel Power Query, reducing reporting delays and accelerating decision making processes.
+- Developed strategic metrics and performance dashboards using Excel and Tableau, directly informing program improvements for foster youth placement and caregiver retention.
 
 #### Case Resource Manager @ Department of Developmental Disabilities, Washington State DSHS
 - Streamlined the development of Individual Service Plans (ISP) for a caseload of 70+ clients, reducing development time by 37.5% (from 8 hours to 5 hours) through effective use of data analytics and software tools.
@@ -24,7 +28,7 @@ Azure Data Scientist Associate | Microsoft Certification, November 2023
 
 #### Research Lab Manager @ California State University San Marcos
 [Culture + Intergroup Relations Lab](https://www.kimellab.com/)
-- Led a 14-member team across 2 longitudinal studies and 5 research projects, collaborating with the principal investigator on project design, execution and data analysis planning.
+- Led a 14-member team across 5 research projects, collaborating with the principal investigator on project design, execution and data analysis planning.
 - Automated pre-processing of 200+ survey responses, DNA genetic results and salivary analysis using R scripts, SPSS, and Excel, reducing data processing time by 50% and enhancing research output quality and reliability.
 - Boosted study participation from 7 to 120+, securing $3,000 in additional funding and extending study duration.
 - Managed a $29,588 budget and project lifecycle, ensuring 100% timeliness and effective resource allocation.
