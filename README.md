@@ -1,5 +1,5 @@
 
-
+# Data Analyst
 #### Technical Skills: Python, SQL, R, Excel, Azure, PowerBI
 
 ## Education
@@ -10,7 +10,7 @@ Azure Data Scientist Associate | Microsoft Certification, November 2023
 
 ## Work Experience
 
-### Program Data Specialist @ Division of Partnership, Prevention, and Services, Washington State DCYF
+#### Program Data Specialist @ Division of Partnership, Prevention, and Services, Washington State DCYF
 - Designed and implemented data systems to support the statewide launch of new foster program, enabling precise tracking and reporting of child welfare outcomes across 8,750 licensed homes and over 4,000 foster youth.
 - Streamlined data workflows, leveraging PowerBI, and Excel Power Query, reducing reporting delays and accelerating decision making processes.
 - Developed strategic metrics and performance dashboards using Excel and Tableau, directly informing program improvements for foster youth placement and caregiver retention.
