@@ -1,6 +1,6 @@
 
 # Data Analyst
-#### Technical Skills: Python, SQL, R, Excel, Azure, PowerBI
+#### Technical Skills: Python, SQL, R, Excel, Tableau, PowerBI, Azure
 
 ## Education
 Psychological Science, B.A. | California State University San Marcos
