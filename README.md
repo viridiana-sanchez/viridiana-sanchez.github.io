@@ -29,16 +29,15 @@ Azure Data Scientist Associate | Microsoft Certification, November 2023
 #### Research Lab Manager @ California State University San Marcos
 [Culture + Intergroup Relations Lab](https://www.kimellab.com/)
 - Led a 14-member team across 5 research projects, collaborating with the principal investigator on project design, execution and data analysis planning.
-- Automated pre-processing of 200+ survey responses, DNA genetic results and salivary analysis using R scripts, SPSS, and Excel, reducing data processing time by 50% and enhancing research output quality and reliability.
+- Automated pre-processing of 200+ survey responses, DNA genetic results and salivary analysis using R scripts, SPSS, and Excel, reducing data processing time and enhancing research output quality and reliability.
 - Boosted study participation from 7 to 120+, securing $3,000 in additional funding and extending study duration.
-- Managed a $29,588 budget and project lifecycle, ensuring 100% timeliness and effective resource allocation.
 
 ![lab1](https://github.com/viridiana-sanchez/viridiana-sanchez.github.io/assets/122954920/e6c41150-ba62-4fd1-80dc-ed0c92b46c5d)
 
 
 ## Publications
 #### Sasha Y. Kimel, Jonas R. Kunst, Fatih Uenal, James Sidanius, Viridiana Sanchez Alcaraz. “They are what they eat”: Negative affect evoked by other’s food practices increase blatant outgroup dehumanization (Under Review). 
-- Ensured 100% methodological accuracy and clarity of analyses and visualizations (PROCESS and regression).
+- Ensured methodological accuracy and clarity of analyses and visualizations (PROCESS and regression).
 - Interpreted and edited statistical results, tables, and visualizations to make research findings clearer, honing skills in literature review, writing, and manuscript preparation.
 
 ## Projects
