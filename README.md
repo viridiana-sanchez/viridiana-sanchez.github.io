@@ -10,7 +10,7 @@ Azure Data Scientist Associate | Microsoft Certification, November 2023
 
 ## Work Experience
 
-#### Program Data Specialist @ Division of Partnership, Prevention, and Services, Washington State DCYF
+#### Data Specialist @ Division of Partnership, Prevention, and Services, Washington State DCYF
 - Designed and implemented data systems to support the statewide launch of new foster program, enabling precise tracking and reporting of child welfare outcomes across 8,750 licensed homes and over 4,000 foster youth.
 - Streamlined data workflows, leveraging PowerBI, and Excel Power Query, reducing reporting delays and accelerating decision making processes.
 - Developed strategic metrics and dynamic performance dashboards using Excel and Tableau, directly informing program improvements for foster youth placement and caregiver retention.
@@ -20,7 +20,7 @@ Azure Data Scientist Associate | Microsoft Certification, November 2023
 - Achieved increase in client satisfaction through targeted service customization using data insights.
 
 
-#### Independent Contractor- Research Data Analyst @ California State University San Marcos
+#### Data Analyst - Independent Contractor @ California State University San Marcos
 - Optimized statistical analysis and visualizations through data analysis using SPSS, R, and Excel.
 - Conducted power simulations in R for growth curve modeling and regression, ensuring statistical robustness and validity with data from 150+ participant responses.
 - Organized and presented weekly reports on methodology and outcomes to improve stakeholder understanding.
