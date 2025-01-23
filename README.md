@@ -32,8 +32,6 @@ Azure Data Scientist Associate | Microsoft Certification, November 2023
 - Automated pre-processing of 200+ survey responses, DNA genetic results and salivary analysis using R scripts, SPSS, and Excel, reducing data processing time and enhancing research output quality and reliability.
 - Boosted study participation from 7 to 120+, securing $3,000 in additional funding and extending study duration.
 
-![lab1](https://github.com/viridiana-sanchez/viridiana-sanchez.github.io/assets/122954920/e6c41150-ba62-4fd1-80dc-ed0c92b46c5d)
-
 
 ## Publications
 #### Sasha Y. Kimel, Jonas R. Kunst, Fatih Uenal, James Sidanius, Viridiana Sanchez Alcaraz. “They are what they eat”: Negative affect evoked by other’s food practices increase blatant outgroup dehumanization (Under Review). 
