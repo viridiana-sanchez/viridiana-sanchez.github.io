@@ -10,14 +10,12 @@ Azure Data Scientist Associate | Microsoft Certification, November 2023
 
 ## Work Experience
 
+#### Business Analyst @ Washington State DCYF
+
 #### Data Analyst @ Division of Partnership, Prevention, and Services, Washington State DCYF
 - Designed and implemented data systems to support the statewide launch of new foster program, enabling precise tracking and reporting of child welfare outcomes across 8,750 licensed homes and over 4,000 foster youth.
 - Streamlined data workflows, leveraging PowerBI, and Excel Power Query, reducing reporting delays and accelerating decision making processes.
 - Developed strategic metrics and dynamic performance dashboards using Excel and Tableau, directly informing program improvements for foster youth placement and caregiver retention.
-
-#### Case Resource Manager @ Department of Developmental Disabilities, Washington State DSHS
-- Streamlined the development of Individual Service Plans (ISP) for a caseload of 70+ clients, reducing development time by 37.5% (from 8 hours to 5 hours) through effective use of data analytics and software tools.
-- Achieved increase in client satisfaction through targeted service customization using data insights.
 
 
 #### Data Analyst - Independent Contractor @ California State University San Marcos
