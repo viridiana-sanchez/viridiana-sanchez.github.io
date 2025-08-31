@@ -4,15 +4,15 @@
 
 ## Education
 - Psychology, B.A. | California State University San Marcos
-- Belleuve College | Continuing Education | Python Programming, Linear Algebra, Calculus II
+- Continuing Education | Bellevue College | Python Programming, Linear Algebra, Calculus II
 
 ## Certifications
 Azure Data Scientist Associate | Microsoft Certification, November 2023
 
 ## Work Experience
 
-#### Business Management Analyst @ Office of Transformation, Washington State DCYF
-##### Child Welfare Information System (CCWIS) Modernization Project
+#### Business Analyst @ Office of Transformation, Washington State DCYF
+#### Child Welfare Information System (CCWIS) Modernization Project
 - Serve as primary liaison between regional program offices, IT development teams, and vendor partners for the CCWIS modernization project.
 - Conduct requirements gathering, stakeholder interviews, and business process mapping to identify system improvements and data access enhancements.
 - Provide data analysis and reporting to inform leadership decisions, improve operational efficiency, and ensure compliance with state/federal regulations.
